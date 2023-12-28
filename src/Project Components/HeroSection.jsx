@@ -5,12 +5,12 @@ import './styles.css';
 
 const HeroSection = () => {
   return (
-    <div className="container-fluid my-4">
+    <div className="container-fluid my-4 vh-100 d-flex align-items-center">
       <div className="row">
         {/* Left Side: Text Content */}
         <div className="col-md-6">
           <div className="hero-content custom-padding">
-            <h1 className="display-4 mb-4">Welcome to Our Website</h1>
+            <h1 className="display-4 mb-4">Welcome to my Blog</h1>
             <p className="lead">
               Hello! I'm a passionate cloud enthusiast, dedicated to exploring
               and mastering the latest technologies in the ever-evolving cloud
@@ -26,9 +26,9 @@ const HeroSection = () => {
         {/* Right Side: Image */}
         <div className="col-md-6">
           <img
-            src="https://via.placeholder.com/400x400" // Replace with your image URL
+            src="https://via.placeholder.com/400x400" 
             alt="Hero Image"
-            className="img-fluid rounded"
+            className="img-fluid rounded img-custom-padding"
           />
         </div>
       </div>

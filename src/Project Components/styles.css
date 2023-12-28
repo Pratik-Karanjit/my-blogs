@@ -6,3 +6,60 @@
     padding-left: 6rem;
   }
   
+
+  .blog-cards-container {
+    background-color: #edf4f9; /* Light white background color */
+  }
+
+
+  header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  article {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  .img-custom-padding{
+    padding-left: 10rem;
+  }
+
+
+  /* styles.css */
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-container {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Dark overlay color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.overlay-text {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.card:hover .overlay {
+  opacity: 1;
+}
+
+
