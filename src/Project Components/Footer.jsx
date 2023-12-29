@@ -21,6 +21,8 @@ const Footer = () => {
             {/* Section 2 */}
             <h4>Let's connect and work!  </h4>
           </div>
+
+          {/* social icons */}
           <div className="col-md-4">
           <div className="d-flex mt-5">
               <a href="https://www.facebook.com/Pratik.Karanjit/" target='_blank' rel='noopener noreferrer'><i className="fab fa-facebook"></i></a>
