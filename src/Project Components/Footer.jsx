@@ -25,10 +25,10 @@ const Footer = () => {
           {/* social icons */}
           <div className="col-md-4">
           <div className="d-flex mt-5">
-              <a href="https://www.facebook.com/Pratik.Karanjit/" target='_blank' rel='noopener noreferrer'><i className="fab fa-facebook"></i></a>
-              <a href="https://www.linkedin.com/in/pratik-karanjit/" target='_blank' rel='noopener noreferrer'><i className="fab fa-linkedin"></i></a>
-              <a href="https://www.instagram.com/pratik_karanjit/" target='_blank' rel='noopener noreferrer'><i className="fab fa-instagram"></i></a>
-              <a href="https://github.com/Pratik-Karanjit" target='_blank' rel='noopener noreferrer'><i className="fab fa-github"></i></a>
+              <a href="https://www.facebook.com/Pratik.Karanjit/" target='_blank' rel='noopener noreferrer'><i className="bi bi-facebook"></i></a>
+              <a href="https://www.linkedin.com/in/pratik-karanjit/" target='_blank' rel='noopener noreferrer'><i className="bi bi-linkedin"></i></a>
+              <a href="https://www.instagram.com/pratik_karanjit/" target='_blank' rel='noopener noreferrer'><i className="bi bi-instagram"></i></a>
+              <a href="https://github.com/Pratik-Karanjit" target='_blank' rel='noopener noreferrer'><i className="bi bi-github"></i></a>
             </div>
           </div>
         </div>
