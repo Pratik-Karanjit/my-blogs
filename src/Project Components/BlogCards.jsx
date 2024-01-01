@@ -6,6 +6,7 @@ import blog1 from '../images/blog1.png';
 import { useNavigate } from 'react-router-dom';
 
 const BlogCards = () => {
+  // navigate 
   let navigate = useNavigate()
   return (
     <div id="blogCards" className="container-fluid my-4 vh-100 blog-cards-container">

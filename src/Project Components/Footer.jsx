@@ -32,6 +32,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        {/* Rights reserved */}
         <div className="row mt-4">
           <div className="col-md-12 text-center">
             <p className="h5">&copy; 2023 PratikBlogs. All rights reserved.</p>
