@@ -16,7 +16,7 @@ const BlogCards = () => {
         <div className="col-md-6 col-lg-3 mb-4">
           <div className="card">
             <img
-              src="https://via.placeholder.com/300" // Replace with your blog image URL
+              src="https://via.placeholder.com/300" 
               className="card-img-top"
               alt="Blog Image"
             />
