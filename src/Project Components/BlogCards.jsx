@@ -9,8 +9,8 @@ const BlogCards = () => {
   // navigate 
   let navigate = useNavigate()
   return (
+    //full height
     <div id="blogCards" className="container-fluid my-4 vh-100 blog-cards-container">
-
     <div className="row vh-100">
         {/* Card 1 */}
         <div className="col-md-6 col-lg-3 mb-4">
