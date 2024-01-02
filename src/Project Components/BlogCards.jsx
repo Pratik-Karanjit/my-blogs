@@ -84,6 +84,7 @@ const BlogCards = () => {
         {/* Card 4 */}
         <div className="col-md-6 col-lg-3 mb-4">
           <div className="card">
+            {/* img */}
             <img
               src="https://via.placeholder.com/300" // Replace with your blog image URL
               className="card-img-top"
