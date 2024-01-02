@@ -5,6 +5,7 @@ import './styles.css'
 import blog1 from '../images/blog1.png';
 import { useNavigate } from 'react-router-dom';
 
+//main
 const BlogCards = () => {
   // navigate 
   let navigate = useNavigate()
