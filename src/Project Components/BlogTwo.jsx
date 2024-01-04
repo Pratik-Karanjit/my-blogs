@@ -10,7 +10,7 @@ const BlogTwo = () => {
         <h1 className="display-4">Blog Title</h1>
         <p className="lead">Published on January 1, 2023</p>
       </header>
-
+{/* article goes here */}
       <article>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel
