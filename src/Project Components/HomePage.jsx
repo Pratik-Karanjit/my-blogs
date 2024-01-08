@@ -11,7 +11,6 @@ const HomePage = () => {
 </HeroSection>
 <BlogCards></BlogCards>
 <Footer></Footer>
-{/* <IncreaseCount></IncreaseCount> */}
     </div>
   )
 }
